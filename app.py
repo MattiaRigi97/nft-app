@@ -18,7 +18,7 @@ def main():
     
     elif app_mode == "Show the source code":
         readme_text.empty()
-        st.code(get_file_content_as_string_local("app.py"))
+        st.code(get_file_content_as_string"app.py"))
 
     elif app_mode == "Generative Art":
         run_generative_art()
