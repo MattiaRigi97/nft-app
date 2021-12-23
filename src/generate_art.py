@@ -44,7 +44,7 @@ def generate_art(collection: str, name: str):
 
     # Set size parameters.
     rescale = 2
-    image_size_px = 128 * rescale
+    image_size_px = 300 * rescale
     padding = 12 * rescale
 
     # Create the directory and base image.
