@@ -1,4 +1,4 @@
-# NFT_APP
+# NFT App
 Streamlit App for create and share NFT
 
 
